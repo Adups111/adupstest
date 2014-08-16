@@ -15,4 +15,8 @@ git five modify ------>
 
 new branch ---->ok 
 
+<<<<<<< HEAD
 new add something by master !
+=======
+create branch for feature1
+>>>>>>> feature1
