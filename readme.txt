@@ -14,3 +14,5 @@ git fore  modfiy ------>
 git five modify ------>
 
 new branch ---->ok 
+
+new add something by master !
